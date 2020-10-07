@@ -31,7 +31,7 @@ developing applications that use %{name}.
 
 
 %prep
-%autosetup -n
+%autosetup -p1
 
 %build
 autoreconf -vfi
