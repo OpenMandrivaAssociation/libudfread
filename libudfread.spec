@@ -3,7 +3,7 @@
 %define         devel %mklibname udfread -d
 
 Name:           libudfread
-Version:        1.1.0
+Version:        1.1.2
 Release:        1
 Summary:        UDF reader from VideoLAN
 Group:          System/Libraries
