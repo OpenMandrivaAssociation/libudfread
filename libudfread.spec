@@ -50,4 +50,4 @@ find %{buildroot} -name '*.la' -delete
 %doc examples/*
 %{_includedir}/*
 %{_libdir}/*udfread*.so
-#{_libdir}/pkgconfig/udfread.pc
+%{_libdir}/pkgconfig/libudfread.pc
