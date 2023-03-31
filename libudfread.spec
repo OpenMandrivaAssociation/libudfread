@@ -4,7 +4,7 @@
 
 Name:           libudfread
 Version:        1.1.2
-Release:        1
+Release:        2
 Summary:        UDF reader from VideoLAN
 Group:          System/Libraries
 License:        LGPLv2+
